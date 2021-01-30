@@ -51,7 +51,7 @@ obterEncomenda();
 ```
 ### Exemplo:
 ```javascript
-obterEncomenda('qd193247231br').then(json  => {
+obterEncomenda('<--CÓDIGO DE RASTREIO-->').then(json  => {
 
 	const  arr  =  JSON.parse(json);
 
