@@ -1,4 +1,4 @@
-# SROCorreiosJS
+# CorreiosJS
 Rastreamento de objetos do Correio.
 # Uso
 **1. Você deve importar o arquivo JavaScript.**
