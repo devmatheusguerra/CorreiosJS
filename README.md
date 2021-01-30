@@ -155,4 +155,3 @@ obterEncomenda('qd193247231br').then(json  => {
 	}
 });
 OBS.: Lembrar de ativar a extensão para CORS. Moesif Origin & CORS Changer
-Markdown 51439 bytes 229 words 83 lines Ln 80, Col 51HTML 50804 characters 203 words 75 paragraphs
